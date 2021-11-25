@@ -17,13 +17,58 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Statistic
+# Github Statistic
 ![Auful's GitHub stats](https://github-readme-stats.vercel.app/api?username=auful01&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auful01&layout=compact&&theme=radical)](https://github.com/auful01/github-readme-stats)
 
-### Coding activity
+# Coding activity
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MRXTech&theme=radical)](https://github.com/auful01/github-readme-stats)
 
 
+# Development and Learning
 
+<li>💻 I’m currently learning and Technology I used for Web Dev:
+<p align="left"> 
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40"/></a></code> 
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></code>
+  </p>
+ </li>
+
+<li>🛠️ I’m currently learning and Technology I used for Testing:
+ 
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bootstrap" width="40" height="40"/></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="bootstrap" width="40" height="40"/></a></code>
+</li>
+<li>
+📱 I’m currently learning and Technology I used for mobile dev:
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="bootstrap" width="40" height="40"/></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="bootstrap" width="40" height="40"/></a></code>
+
+ </li>
+ <li>
+🎨 I’m currently learning and Technology I used for mockup design:
+ 
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="bootstrap" width="40" height="40"/></a></code>
+</li>
+ <li>
+📚 Other Skill:
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40"/></a></code>
+</li>
+
+<li>
+🎓 I'm Learning Now :
+  
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://www.svgrepo.com/show/6894/cloud-computing.svg" alt="bootstrap" width="40" height="40"/></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://www.svgrepo.com/show/354792/android.svg" alt="bootstrap" width="40" height="40"/></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> <img style="text-align" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="bootstrap" width="40" height="40"/></a></code>
+ </li>
+ 
+
+ 
