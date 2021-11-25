@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 # Github Statistic
 
-![Auful's GitHub stats](https://github-readme-stats.vercel.app/api?username=auful01&show_icons=true&theme=radical)
-
+![Auful's GitHub stats](https://github-readme-stats.vercel.app/api?username=auful01&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auful01&layout=compact&&theme=radical)](https://github.com/auful01/github-readme-stats)
 
 # Coding activity
