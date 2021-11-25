@@ -1,4 +1,4 @@
-# Hello 😄
+# Hello Everyone😄
 
 Hello World, I'm Muhammad Auful Kirom, I'm a student of POLINEMA at Information Technology Majority, I'm a Junior Fullstack Web Developer
 
