@@ -5,6 +5,7 @@ Hello World, I'm Muhammad Auful Kirom, I'm a student of POLINEMA at Information 
 <h3 align="center">{{ Part Of }}</h3>
 <div style="text-align:center"><p align="center"><img src="https://github.com/Auful01/auful01/blob/main/sgn.png" height="200"/></p></div>
 
+<p><embed src="https://wakatime.com/share/@MRXTech/118dc83e-fde2-48f1-a47a-b99704d5ce37.svg"></embed></p>
 
 <!--
 **Auful01/auful01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,8 +28,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auful01&layout=compact&&theme=radical)](https://github.com/auful01/github-readme-stats)
 
+
 # Coding activity
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MRXTech&theme=radical)](https://github.com/auful01/github-readme-stats)
+
+<img src="https://wakatime.com/share/@MRXTech/118dc83e-fde2-48f1-a47a-b99704d5ce37.svg" height="500px">
+
 
 
 # Development and Learning
