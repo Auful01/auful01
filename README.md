@@ -3,7 +3,8 @@
 Hello World, I'm Muhammad Auful Kirom, I'm a student of POLINEMA at Information Technology Majority, I'm a Junior Fullstack Web Developer
 
 <h3 align="center">{{ Part Of }}</h3>
-<div style="text-align:center"><p align="center"><img src="https://github.com/Auful01/auful01/blob/main/sgn.png" height="200"/></p></div>
+<div style="text-align:center"><p align="center"><img src="https://github.com/Auful01/auful01/blob/main/sgn.png" height="200"/> <img src="https://github.com/Auful01/auful01/blob/main/Logo%20TM%20regis.png" height="200"/></p></div>
+
 
 <p><embed src="https://wakatime.com/share/@MRXTech/118dc83e-fde2-48f1-a47a-b99704d5ce37.svg"></embed></p>
 
