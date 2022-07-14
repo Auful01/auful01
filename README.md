@@ -1,6 +1,6 @@
 # Hello Everyone😄
 
-Hello World, I'm Muhammad Auful Kirom, I'm a student of POLINEMA at Information Technology Majority, I'm a Junior Fullstack Web Developer
+Hello World, I'm Muhammad Auful Kirom, I'm a student of POLINEMA at Information Technology Majority, I'm a Fullstack Web Developer
 
 <h3 align="center">{{ Part Of }}</h3>
 <div style="text-align:center"><p align="center"><img src="https://github.com/Auful01/auful01/blob/main/sgn.png" height="200"/></p></div>
